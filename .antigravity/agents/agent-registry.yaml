@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-guinea-bissau-canal-and-intervention-historian
-  name: Guinea-bissau Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-guinea-bissau-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_gw_001
+    name: Guinea-Bissau Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_002
+    name: Guinea-Bissau Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_003
+    name: Guinea-Bissau Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_004
+    name: Guinea-Bissau Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_005
+    name: Guinea-Bissau Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_006
+    name: Guinea-Bissau Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_007
+    name: Guinea-Bissau Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_008
+    name: Guinea-Bissau Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_009
+    name: Guinea-Bissau Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_010
+    name: Guinea-Bissau Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_011
+    name: Guinea-Bissau Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_012
+    name: Guinea-Bissau Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_013
+    name: Guinea-Bissau Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_014
+    name: Guinea-Bissau Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_015
+    name: Guinea-Bissau Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_016
+    name: Guinea-Bissau Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_017
+    name: Guinea-Bissau Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_018
+    name: Guinea-Bissau Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_019
+    name: Guinea-Bissau Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_020
+    name: Guinea-Bissau Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_021
+    name: Guinea-Bissau Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_022
+    name: Guinea-Bissau Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_023
+    name: Guinea-Bissau Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_024
+    name: Guinea-Bissau Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_025
+    name: Guinea-Bissau Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_026
+    name: Guinea-Bissau Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_027
+    name: Guinea-Bissau Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_028
+    name: Guinea-Bissau Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_029
+    name: Guinea-Bissau Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_030
+    name: Guinea-Bissau Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_031
+    name: Guinea-Bissau Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_032
+    name: Guinea-Bissau Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_033
+    name: Guinea-Bissau Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_034
+    name: Guinea-Bissau Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_035
+    name: Guinea-Bissau Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_036
+    name: Guinea-Bissau Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_037
+    name: Guinea-Bissau Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_038
+    name: Guinea-Bissau Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_039
+    name: Guinea-Bissau Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_040
+    name: Guinea-Bissau Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_041
+    name: Guinea-Bissau Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_042
+    name: Guinea-Bissau Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_043
+    name: Guinea-Bissau Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_044
+    name: Guinea-Bissau Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_045
+    name: Guinea-Bissau Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_046
+    name: Guinea-Bissau Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_047
+    name: Guinea-Bissau Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_048
+    name: Guinea-Bissau Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_049
+    name: Guinea-Bissau Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_050
+    name: Guinea-Bissau Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_051
+    name: Guinea-Bissau Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_052
+    name: Guinea-Bissau Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_053
+    name: Guinea-Bissau Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_054
+    name: Guinea-Bissau Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_055
+    name: Guinea-Bissau Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_056
+    name: Guinea-Bissau Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_057
+    name: Guinea-Bissau Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_058
+    name: Guinea-Bissau Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_059
+    name: Guinea-Bissau Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_060
+    name: Guinea-Bissau Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_061
+    name: Guinea-Bissau Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_062
+    name: Guinea-Bissau Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_063
+    name: Guinea-Bissau Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_064
+    name: Guinea-Bissau Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_065
+    name: Guinea-Bissau Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_066
+    name: Guinea-Bissau Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_067
+    name: Guinea-Bissau Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_068
+    name: Guinea-Bissau Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_069
+    name: Guinea-Bissau Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_070
+    name: Guinea-Bissau Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_071
+    name: Guinea-Bissau Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_072
+    name: Guinea-Bissau Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_073
+    name: Guinea-Bissau Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_074
+    name: Guinea-Bissau Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_075
+    name: Guinea-Bissau Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_076
+    name: Guinea-Bissau Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_077
+    name: Guinea-Bissau Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_078
+    name: Guinea-Bissau Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_079
+    name: Guinea-Bissau Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_080
+    name: Guinea-Bissau Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_081
+    name: Guinea-Bissau Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_082
+    name: Guinea-Bissau Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_083
+    name: Guinea-Bissau Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_084
+    name: Guinea-Bissau Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_085
+    name: Guinea-Bissau Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_086
+    name: Guinea-Bissau Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_087
+    name: Guinea-Bissau Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_088
+    name: Guinea-Bissau Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_089
+    name: Guinea-Bissau Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_090
+    name: Guinea-Bissau Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_091
+    name: Guinea-Bissau Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_092
+    name: Guinea-Bissau Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_093
+    name: Guinea-Bissau Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_094
+    name: Guinea-Bissau Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_095
+    name: Guinea-Bissau Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_096
+    name: Guinea-Bissau Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_097
+    name: Guinea-Bissau Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_098
+    name: Guinea-Bissau Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_099
+    name: Guinea-Bissau Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_100
+    name: Guinea-Bissau Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_101
+    name: Guinea-Bissau Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_102
+    name: Guinea-Bissau Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_103
+    name: Guinea-Bissau Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_104
+    name: Guinea-Bissau Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_105
+    name: Guinea-Bissau Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_106
+    name: Guinea-Bissau Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_107
+    name: Guinea-Bissau Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_108
+    name: Guinea-Bissau Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_109
+    name: Guinea-Bissau Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_110
+    name: Guinea-Bissau Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_111
+    name: Guinea-Bissau Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_112
+    name: Guinea-Bissau Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_113
+    name: Guinea-Bissau Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_114
+    name: Guinea-Bissau Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_115
+    name: Guinea-Bissau Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_116
+    name: Guinea-Bissau Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_117
+    name: Guinea-Bissau Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_118
+    name: Guinea-Bissau Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_119
+    name: Guinea-Bissau Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_120
+    name: Guinea-Bissau Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_121
+    name: Guinea-Bissau Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_122
+    name: Guinea-Bissau Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_123
+    name: Guinea-Bissau Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_124
+    name: Guinea-Bissau Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_125
+    name: Guinea-Bissau Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_126
+    name: Guinea-Bissau Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_127
+    name: Guinea-Bissau Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_128
+    name: Guinea-Bissau Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_129
+    name: Guinea-Bissau Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_130
+    name: Guinea-Bissau Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_131
+    name: Guinea-Bissau Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_132
+    name: Guinea-Bissau Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_133
+    name: Guinea-Bissau Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_134
+    name: Guinea-Bissau Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_135
+    name: Guinea-Bissau Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_136
+    name: Guinea-Bissau Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_137
+    name: Guinea-Bissau Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_138
+    name: Guinea-Bissau Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_139
+    name: Guinea-Bissau Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_140
+    name: Guinea-Bissau Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_141
+    name: Guinea-Bissau Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_142
+    name: Guinea-Bissau Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_143
+    name: Guinea-Bissau Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_144
+    name: Guinea-Bissau Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_145
+    name: Guinea-Bissau Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_146
+    name: Guinea-Bissau Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_147
+    name: Guinea-Bissau Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_148
+    name: Guinea-Bissau Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_149
+    name: Guinea-Bissau Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_150
+    name: Guinea-Bissau Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_151
+    name: Guinea-Bissau Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_152
+    name: Guinea-Bissau Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_153
+    name: Guinea-Bissau Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_154
+    name: Guinea-Bissau Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_155
+    name: Guinea-Bissau Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_156
+    name: Guinea-Bissau Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_157
+    name: Guinea-Bissau Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_158
+    name: Guinea-Bissau Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_159
+    name: Guinea-Bissau Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_160
+    name: Guinea-Bissau Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_161
+    name: Guinea-Bissau Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_162
+    name: Guinea-Bissau Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_163
+    name: Guinea-Bissau Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_164
+    name: Guinea-Bissau Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_165
+    name: Guinea-Bissau Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_166
+    name: Guinea-Bissau Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_167
+    name: Guinea-Bissau Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_168
+    name: Guinea-Bissau Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_169
+    name: Guinea-Bissau Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gw_170
+    name: Guinea-Bissau Agent 170
+    status: ACTIVE_SCAFFOLD

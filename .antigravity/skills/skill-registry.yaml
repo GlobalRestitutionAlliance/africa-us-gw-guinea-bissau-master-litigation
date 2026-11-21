@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: guinea-bissauan-restitution-roadmap-and-qsf-trust-execution
-  name: Guinea-Bissauan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/guinea-bissauan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_gw_001
+    name: Guinea-Bissau Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_002
+    name: Guinea-Bissau Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_003
+    name: Guinea-Bissau Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_004
+    name: Guinea-Bissau Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_005
+    name: Guinea-Bissau Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_006
+    name: Guinea-Bissau Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_007
+    name: Guinea-Bissau Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_008
+    name: Guinea-Bissau Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_009
+    name: Guinea-Bissau Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_010
+    name: Guinea-Bissau Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_011
+    name: Guinea-Bissau Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_012
+    name: Guinea-Bissau Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_013
+    name: Guinea-Bissau Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_014
+    name: Guinea-Bissau Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_015
+    name: Guinea-Bissau Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_016
+    name: Guinea-Bissau Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_017
+    name: Guinea-Bissau Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_018
+    name: Guinea-Bissau Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_019
+    name: Guinea-Bissau Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_020
+    name: Guinea-Bissau Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_021
+    name: Guinea-Bissau Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_022
+    name: Guinea-Bissau Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_023
+    name: Guinea-Bissau Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_024
+    name: Guinea-Bissau Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_025
+    name: Guinea-Bissau Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_026
+    name: Guinea-Bissau Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_027
+    name: Guinea-Bissau Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_028
+    name: Guinea-Bissau Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_029
+    name: Guinea-Bissau Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_030
+    name: Guinea-Bissau Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_031
+    name: Guinea-Bissau Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_032
+    name: Guinea-Bissau Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_033
+    name: Guinea-Bissau Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_034
+    name: Guinea-Bissau Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_035
+    name: Guinea-Bissau Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_036
+    name: Guinea-Bissau Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_037
+    name: Guinea-Bissau Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_038
+    name: Guinea-Bissau Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_039
+    name: Guinea-Bissau Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_040
+    name: Guinea-Bissau Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_041
+    name: Guinea-Bissau Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_042
+    name: Guinea-Bissau Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_043
+    name: Guinea-Bissau Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_044
+    name: Guinea-Bissau Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_045
+    name: Guinea-Bissau Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_046
+    name: Guinea-Bissau Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_047
+    name: Guinea-Bissau Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_048
+    name: Guinea-Bissau Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_049
+    name: Guinea-Bissau Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_050
+    name: Guinea-Bissau Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_051
+    name: Guinea-Bissau Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_052
+    name: Guinea-Bissau Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_053
+    name: Guinea-Bissau Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_054
+    name: Guinea-Bissau Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_055
+    name: Guinea-Bissau Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_056
+    name: Guinea-Bissau Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_057
+    name: Guinea-Bissau Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_058
+    name: Guinea-Bissau Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_059
+    name: Guinea-Bissau Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_060
+    name: Guinea-Bissau Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_061
+    name: Guinea-Bissau Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_062
+    name: Guinea-Bissau Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_063
+    name: Guinea-Bissau Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_064
+    name: Guinea-Bissau Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_065
+    name: Guinea-Bissau Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_066
+    name: Guinea-Bissau Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_067
+    name: Guinea-Bissau Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_068
+    name: Guinea-Bissau Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_069
+    name: Guinea-Bissau Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_070
+    name: Guinea-Bissau Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_071
+    name: Guinea-Bissau Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_072
+    name: Guinea-Bissau Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_073
+    name: Guinea-Bissau Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_074
+    name: Guinea-Bissau Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_075
+    name: Guinea-Bissau Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_076
+    name: Guinea-Bissau Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_077
+    name: Guinea-Bissau Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_078
+    name: Guinea-Bissau Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_079
+    name: Guinea-Bissau Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_080
+    name: Guinea-Bissau Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_081
+    name: Guinea-Bissau Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_082
+    name: Guinea-Bissau Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_083
+    name: Guinea-Bissau Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_084
+    name: Guinea-Bissau Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_085
+    name: Guinea-Bissau Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_086
+    name: Guinea-Bissau Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_087
+    name: Guinea-Bissau Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_088
+    name: Guinea-Bissau Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_089
+    name: Guinea-Bissau Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_090
+    name: Guinea-Bissau Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_091
+    name: Guinea-Bissau Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_092
+    name: Guinea-Bissau Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_093
+    name: Guinea-Bissau Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_094
+    name: Guinea-Bissau Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_095
+    name: Guinea-Bissau Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_096
+    name: Guinea-Bissau Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_097
+    name: Guinea-Bissau Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_098
+    name: Guinea-Bissau Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_099
+    name: Guinea-Bissau Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_100
+    name: Guinea-Bissau Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_101
+    name: Guinea-Bissau Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_102
+    name: Guinea-Bissau Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_103
+    name: Guinea-Bissau Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_104
+    name: Guinea-Bissau Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_105
+    name: Guinea-Bissau Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_106
+    name: Guinea-Bissau Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_107
+    name: Guinea-Bissau Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_108
+    name: Guinea-Bissau Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_109
+    name: Guinea-Bissau Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_110
+    name: Guinea-Bissau Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_111
+    name: Guinea-Bissau Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_112
+    name: Guinea-Bissau Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_113
+    name: Guinea-Bissau Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_114
+    name: Guinea-Bissau Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_115
+    name: Guinea-Bissau Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_116
+    name: Guinea-Bissau Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_117
+    name: Guinea-Bissau Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_118
+    name: Guinea-Bissau Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_119
+    name: Guinea-Bissau Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_120
+    name: Guinea-Bissau Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_121
+    name: Guinea-Bissau Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_122
+    name: Guinea-Bissau Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_123
+    name: Guinea-Bissau Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_124
+    name: Guinea-Bissau Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_125
+    name: Guinea-Bissau Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_126
+    name: Guinea-Bissau Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_127
+    name: Guinea-Bissau Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_128
+    name: Guinea-Bissau Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_129
+    name: Guinea-Bissau Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_130
+    name: Guinea-Bissau Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_131
+    name: Guinea-Bissau Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_132
+    name: Guinea-Bissau Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_133
+    name: Guinea-Bissau Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_134
+    name: Guinea-Bissau Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_135
+    name: Guinea-Bissau Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_136
+    name: Guinea-Bissau Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_137
+    name: Guinea-Bissau Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_138
+    name: Guinea-Bissau Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_139
+    name: Guinea-Bissau Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_140
+    name: Guinea-Bissau Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_141
+    name: Guinea-Bissau Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_142
+    name: Guinea-Bissau Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_143
+    name: Guinea-Bissau Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_144
+    name: Guinea-Bissau Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_145
+    name: Guinea-Bissau Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_146
+    name: Guinea-Bissau Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_147
+    name: Guinea-Bissau Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_148
+    name: Guinea-Bissau Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_149
+    name: Guinea-Bissau Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_150
+    name: Guinea-Bissau Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_151
+    name: Guinea-Bissau Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_152
+    name: Guinea-Bissau Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_153
+    name: Guinea-Bissau Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_154
+    name: Guinea-Bissau Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_155
+    name: Guinea-Bissau Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_156
+    name: Guinea-Bissau Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_157
+    name: Guinea-Bissau Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_158
+    name: Guinea-Bissau Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_159
+    name: Guinea-Bissau Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_160
+    name: Guinea-Bissau Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_161
+    name: Guinea-Bissau Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_162
+    name: Guinea-Bissau Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_163
+    name: Guinea-Bissau Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_164
+    name: Guinea-Bissau Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_165
+    name: Guinea-Bissau Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_166
+    name: Guinea-Bissau Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_167
+    name: Guinea-Bissau Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_168
+    name: Guinea-Bissau Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_169
+    name: Guinea-Bissau Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_170
+    name: Guinea-Bissau Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_171
+    name: Guinea-Bissau Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_172
+    name: Guinea-Bissau Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_173
+    name: Guinea-Bissau Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_174
+    name: Guinea-Bissau Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_175
+    name: Guinea-Bissau Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_176
+    name: Guinea-Bissau Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_177
+    name: Guinea-Bissau Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_178
+    name: Guinea-Bissau Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_179
+    name: Guinea-Bissau Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_180
+    name: Guinea-Bissau Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_181
+    name: Guinea-Bissau Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_182
+    name: Guinea-Bissau Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_183
+    name: Guinea-Bissau Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_184
+    name: Guinea-Bissau Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_185
+    name: Guinea-Bissau Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_186
+    name: Guinea-Bissau Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_187
+    name: Guinea-Bissau Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_188
+    name: Guinea-Bissau Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_189
+    name: Guinea-Bissau Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_190
+    name: Guinea-Bissau Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_191
+    name: Guinea-Bissau Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_192
+    name: Guinea-Bissau Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_193
+    name: Guinea-Bissau Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_194
+    name: Guinea-Bissau Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_195
+    name: Guinea-Bissau Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_196
+    name: Guinea-Bissau Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_197
+    name: Guinea-Bissau Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_198
+    name: Guinea-Bissau Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_199
+    name: Guinea-Bissau Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_200
+    name: Guinea-Bissau Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_201
+    name: Guinea-Bissau Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_202
+    name: Guinea-Bissau Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_203
+    name: Guinea-Bissau Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_204
+    name: Guinea-Bissau Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_205
+    name: Guinea-Bissau Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_206
+    name: Guinea-Bissau Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_207
+    name: Guinea-Bissau Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_208
+    name: Guinea-Bissau Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_209
+    name: Guinea-Bissau Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_210
+    name: Guinea-Bissau Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_211
+    name: Guinea-Bissau Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_212
+    name: Guinea-Bissau Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_213
+    name: Guinea-Bissau Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_214
+    name: Guinea-Bissau Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_215
+    name: Guinea-Bissau Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_216
+    name: Guinea-Bissau Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_217
+    name: Guinea-Bissau Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_218
+    name: Guinea-Bissau Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_219
+    name: Guinea-Bissau Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_220
+    name: Guinea-Bissau Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_221
+    name: Guinea-Bissau Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_222
+    name: Guinea-Bissau Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_223
+    name: Guinea-Bissau Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_224
+    name: Guinea-Bissau Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_225
+    name: Guinea-Bissau Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_226
+    name: Guinea-Bissau Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_227
+    name: Guinea-Bissau Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_228
+    name: Guinea-Bissau Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_229
+    name: Guinea-Bissau Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_230
+    name: Guinea-Bissau Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_231
+    name: Guinea-Bissau Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_232
+    name: Guinea-Bissau Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_233
+    name: Guinea-Bissau Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_234
+    name: Guinea-Bissau Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_235
+    name: Guinea-Bissau Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_236
+    name: Guinea-Bissau Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_237
+    name: Guinea-Bissau Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_238
+    name: Guinea-Bissau Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_239
+    name: Guinea-Bissau Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_240
+    name: Guinea-Bissau Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_241
+    name: Guinea-Bissau Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_242
+    name: Guinea-Bissau Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_243
+    name: Guinea-Bissau Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_244
+    name: Guinea-Bissau Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_245
+    name: Guinea-Bissau Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_246
+    name: Guinea-Bissau Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_247
+    name: Guinea-Bissau Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_248
+    name: Guinea-Bissau Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_249
+    name: Guinea-Bissau Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_250
+    name: Guinea-Bissau Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_251
+    name: Guinea-Bissau Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gw_252
+    name: Guinea-Bissau Skill 252
+    status: ACTIVE_SCAFFOLD

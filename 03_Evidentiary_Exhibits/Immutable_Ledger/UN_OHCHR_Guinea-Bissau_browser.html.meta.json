@@ -1,0 +1,16 @@
+{
+  "url": "https://www.ohchr.org/en/countries/guinea-bissau",
+  "final_url": "https://www.ohchr.org/en/countries/guinea-bissau",
+  "title": "UN OHCHR Guinea-Bissau",
+  "fetched_at": "2026-11-23T06:30:57.348925Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 80020,
+  "sha256": "4cd825c1a975dacf23ae79831fc7e18db1365ffe675c14614ce869b81091c270",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": true
+}

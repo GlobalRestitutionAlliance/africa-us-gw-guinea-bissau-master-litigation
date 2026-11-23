@@ -3,7 +3,7 @@
 **Country Key:** US_GW_GUINEA-BISSAU
 **ISO Code:** GW/GNB
 **Historical Arc:** 1974-2026
-**Restitution Pool:** $4.00B
+**Restitution Pool:** TBD (valuation pending)
 **Instruments:** 9
 
 ## Primary Judgment

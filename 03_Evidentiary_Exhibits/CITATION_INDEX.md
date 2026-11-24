@@ -1,6 +1,6 @@
 # Citation Index
 
-Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off.
+Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All PENDING_LEGAL_REVIEW.
 
 - CIT-0001: https://www.foia.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/FOIA.gov.html` | `bf3c0d9a5f3106c8...` | PENDING_LEGAL_REVIEW
 - CIT-0002: https://digitallibrary.un.org/search | `03_Evidentiary_Exhibits/Immutable_Ledger/GW_01_UN_Digital_Library_-_Search.html` | `e3b0c44298fc1c14...` | PENDING_LEGAL_REVIEW
@@ -18,4 +18,3 @@ Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIE
 - CIT-0014: https://www.archives.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/US_National_Archives.html` | `b1be5889069b829d...` | PENDING_LEGAL_REVIEW
 - CIT-0015: https://en.wikisource.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Wikisource.html` | `f1f02568e88c7f73...` | PENDING_LEGAL_REVIEW
 - CIT-0016: https://search.worldcat.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/WorldCat.html` | `db7f991b8b7ddfbe...` | PENDING_LEGAL_REVIEW
-- CIT-0017: https://antt.dglab.gov.pt/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Portuguese_National_Archives_public_portal.html` | `1c7405bb2e9e8e6d...` | PENDING_LEGAL_REVIEW
